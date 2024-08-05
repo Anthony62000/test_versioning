@@ -1,1 +1,1 @@
-# mon projet avec git flow
+# mon projet avec git flow v2
